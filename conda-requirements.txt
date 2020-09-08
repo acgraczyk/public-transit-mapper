@@ -1,0 +1,11 @@
+pandas
+bokeh
+dill
+flask
+pip
+math
+json
+jinja2
+geopandas
+geopy
+folium
